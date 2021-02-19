@@ -15,6 +15,13 @@ class Ram
 	{
 		Prac1 a = new Prac1();
 		
+
+
+
+
+
+
+
 		System.out.println("name is :"+a.name);
 		System.out.println("name is :"+a.id);
 		
